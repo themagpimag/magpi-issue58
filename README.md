@@ -1,0 +1,1 @@
+A repository for all the individual code files from issue 58 of The MagPi, along with the repository for the Minecraft Maker Guide and Stairlights.
